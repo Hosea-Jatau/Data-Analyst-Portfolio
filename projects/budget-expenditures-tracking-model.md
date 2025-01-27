@@ -6,14 +6,14 @@ There is one file attached to the repository which act as a single file for the 
 
 ## In this file:
 
-  ## Exploratory Data Analysis
+  ## i.Exploratory Data Analysis
   The purpose of the budget expenditures tracking model is to create and deploy a system that helps users manage and track their budget expenditures effectively. Key objectives include: • Monitoring Spending: Allowing users to keep track of their expenses and identify spending patterns.
 
   • Providing Recommendations: Utilizing data analysis techniques to offer budget recommendations based on historical spending data.
   
   • Improving Financial Awareness: Helping users understand their financial habits and make informed decisions about their budgets. Overall, the model aims to enhance personal financial management through data-driven insights
 
-  ## Collaborative Features/Filtering Techniques
+  ## ii.Collaborative Features/Filtering Techniques
   The budget recommendation system in the project includes the following main features and functionalities: Main Features
   Exploratory Data Analysis (EDA) 
   
