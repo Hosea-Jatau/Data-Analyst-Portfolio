@@ -1,7 +1,7 @@
 # Budget Expenditures Tracking Model
 
-This is the main read me file which contains all the information about the project that I have done for creating and deploying a budget recommendation system from scratch.
-This readme.md file will act as an information file:
+This is the main read me file which contains all the information about the project that I have done while creating and deploying a budget recommendation system from scratch.
+
 There is one file attached to the repository which act as a single file for the budget recommendation system.
 
 ##In this file:
