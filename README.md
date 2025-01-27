@@ -3,6 +3,6 @@
 ## Projects 1
 - [Budget Expenditures Tracking Model](./projects/budget-expenditures-tracking-model.md)
 
-  ## Dashboards
+ ## Dashboards
 - [Budget Expenditures Tracking Model](./projects/budget-expenditures-tracking-model.md)
-- [Budget Expenditure](./dashboards/Budget%20Expenditure)  <!-- Adjust filename if necessary -->
+- [Budget Expenditure](./dashboards/Budget_Expenditure.pdf)
