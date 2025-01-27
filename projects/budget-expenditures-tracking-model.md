@@ -4,7 +4,7 @@ This is the main read me file which contains all the information about the proje
 
 There is one file attached to the repository which act as a single file for the budget recommendation system.
 
-##In this file:
+## In this file:
 
   ## Exploratory Data Analysis
   The purpose of the budget expenditures tracking model is to create and deploy a system that helps users manage and track their budget expenditures effectively. Key objectives include: • Monitoring Spending: Allowing users to keep track of their expenses and identify spending patterns.
