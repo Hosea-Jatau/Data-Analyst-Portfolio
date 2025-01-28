@@ -13,6 +13,7 @@ This is a project I did, where I built a budget expenditure tracker model system
 ## Projects 2
 Description@ [Freshdesk Ticket Resolution Tracker](./projects/freshdesk-ticket-resolution-tracker.md)
 Dashboard@ [Ticket Resolution Tracker](./dashboards/NERC.pdf)
+[View Dashboard](file:///C:/Users/Jay's/Downloads/Project%202_NERC.pdf)
 
 I developed a nationwide Ticket Resolution Tracker to monitor and manage ticket resolutions efficiently
 
